@@ -1,0 +1,7 @@
+{
+  "name": "Kolpolok Unity Club",
+  "description": "A hyper-local community platform for Kolpolok R/A residents, featuring a business directory, community shop, and club updates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
